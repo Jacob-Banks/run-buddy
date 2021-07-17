@@ -1,8 +1,12 @@
-  # runbuddy
-  https://img.shields.io/github/languages/count/jacob-banks/my-portfolio
+  # jfkdfjaslkdfjlskdajfal;dks
+  ![GitHub](https://img.shields.io/github/license/jacob-banks/my-portfolio)
+  ![GitHub repo file count](https://img.shields.io/github/directory-file-count/jacob-banks/my-portfolio)
+  ![GitHub language count](https://img.shields.io/github/languages/count/jacob-banks/my-portfolio)
+  ![GitHub top language](https://img.shields.io/github/languages/top/jacob-banks/my-portfolio)
+
   
   ## Description
-  fake
+  dlksafkldsjfkldjsfd
   
   ## Table of Contents
 
@@ -13,19 +17,19 @@
 
 
   ## Installation
-  fkajklajfkljkds
+  fsjlfkjadslkfjlksda
   
   ## Usage 
-  lkfaklfdsjldksafs
-  
+  dkllajflskdjfds;l
+  ![screenshot1](./img/a.png)
 
   ## Credits
-  ./img/a.png
+  kljsdlkfjdsa
 
   ## License
 
   This project is [APACHE-2.0](https://choosealicense.com/licenses/apache-2.0/) licensed.<br />
-  Copyright © 2021 [JJ JJ](https://github.com/jacob-banks)
+  Copyright © 2021 [LJKLJ JLKJ](https://github.com/jacob-banks)
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
@@ -34,14 +38,14 @@
  
 
   ## Contributing
-  nnnnnnnnnnnnnnnnnnnn
+  klsklfajsdfkjdo
 
   ## Tests
-  nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+  jkflakdfjas
 
   ## Questions
-  Contact jj jj with any questions!<br>
+  Contact ljklj jlkj with any questions!<br>
   Github link: [jacob-banks](https://github.com/jacob-banks)<br>
-  Email: jj@jj.jj
+  Email: jj@ll.cc
 
 
