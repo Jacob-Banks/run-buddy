@@ -1,8 +1,8 @@
-  # mmmmmmmmmmmmmmmmmmmmmmmm
-  https://img.shields.io/github/languages/count/undefined/my-portfolio
+  # runbuddy
+  https://img.shields.io/github/languages/count/jacob-banks/my-portfolio
   
   ## Description
-  mmmmmmmmmmmmeeeeeeeeeeeeeee
+  fake
   
   ## Table of Contents
 
@@ -13,33 +13,35 @@
 
 
   ## Installation
-  clone repo
+  fkajklajfkljkds
   
   ## Usage 
-  click liink
-  ![screenshot1](./img/a.png)
+  lkfaklfdsjldksafs
+  
 
   ## Credits
-  me
+  ./img/a.png
 
   ## License
 
-  This project is [AGPL-3.0](https://choosealicense.com/licenses/agpl-3.0/) licensed.<br />
-  Copyright © 2021 [JACOB BANKS](https://github.com/jacob-banks)
+  This project is [APACHE-2.0](https://choosealicense.com/licenses/apache-2.0/) licensed.<br />
+  Copyright © 2021 [JJ JJ](https://github.com/jacob-banks)
 
-  This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-    This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
-   
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+  http://www.apache.org/licenses/LICENSE-2.0
+ 
 
   ## Contributing
-  nop
+  nnnnnnnnnnnnnnnnnnnn
 
   ## Tests
-  i dont
+  nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
   ## Questions
-  Contact jacob banks with any questions!<br>
+  Contact jj jj with any questions!<br>
   Github link: [jacob-banks](https://github.com/jacob-banks)<br>
-  Email: kobybanks@gmail.com
+  Email: jj@jj.jj
 
 
