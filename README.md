@@ -1,12 +1,11 @@
- 
-  # y
-  ![GitHub](https://img.shields.io/github/license/y/y)
-  ![GitHub language count](https://img.shields.io/github/languages/count/y/y)
-  ![GitHub top language](https://img.shields.io/github/languages/top/y/y)
+# A Professional README Generator
+  ![GitHub](https://img.shields.io/github/license/jacob-banks/README-Genrator)
+  ![GitHub language count](https://img.shields.io/github/languages/count/jacob-banks/README-Genrator)
+  ![GitHub top language](https://img.shields.io/github/languages/top/jacob-banks/README-Genrator)
 
   
   ## Description
-  y
+  This app will create a profesional README.md for yor repository! Includes badges, table of contents, links, screenshots, license!
   
   ## Table of Contents
 
@@ -17,31 +16,30 @@
 
 
   ## Installation
-  y
+  Clone this repo, insure node is installed on your computer, install inquirer(npm install inquirer) in terminal/bash.
   
   ## Usage 
-  y
-  
-  heres my demo https://www.capfriendly.com/expansion-draft/seattle<br> https://www.capfriendly.com/expansion-draft/seattle
+  Once set up just type in command line "node index.js" and answer all the prompts!
+  ![screenshot1](./img/terminal.png)![screenshot2](./img/readme.png)
+  Watch a video demo here: https://drive.google.com/file/d/1XfrDPQhdVFwVjM2udgKoAv-wlT2N6tDi/view
 
   ## Credits
-  n
+  Jacob Banks
 
   ## License
 
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
-  Copyright © 2021 [Y Y](https://github.com/y)
+  Copyright © 2021 [JACOB BANKS](https://github.com/jacob-banks)
 
   
 
   ## Contributing
-  n
+  Please feel free to add to or adjust any file. No attribution required. Please contact me for more info. Email kobyBanks@gmail.com
 
   ## Tests
-  n
+  N/A
 
   ## Questions
-  Contact y y with any questions!<br>
-  Github link: [y](https://github.com/y)<br>
-  Email: y@y.y
-
+  Contact Jacob Banks with any questions!<br>
+  Github link: [jacob-banks](https://github.com/jacob-banks)<br>
+  Email: kobybanks@gmail.com
