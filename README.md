@@ -1,12 +1,12 @@
-  # jfkdfjaslkdfjlskdajfal;dks
-  ![GitHub](https://img.shields.io/github/license/jacob-banks/my-portfolio)
-  ![GitHub repo file count](https://img.shields.io/github/directory-file-count/jacob-banks/my-portfolio)
-  ![GitHub language count](https://img.shields.io/github/languages/count/jacob-banks/my-portfolio)
-  ![GitHub top language](https://img.shields.io/github/languages/top/jacob-banks/my-portfolio)
+  
+  # as
+  ![GitHub](https://img.shields.io/github/license/adf/ad)
+  ![GitHub language count](https://img.shields.io/github/languages/count/adf/ad)
+  ![GitHub top language](https://img.shields.io/github/languages/top/adf/ad)
 
   
   ## Description
-  dlksafkldsjfkldjsfd
+  as
   
   ## Table of Contents
 
@@ -17,35 +17,29 @@
 
 
   ## Installation
-  fsjlfkjadslkfjlksda
+  a
   
   ## Usage 
-  dkllajflskdjfds;l
-  ![screenshot1](./img/a.png)
+  y
+  ![screenshot1](https://drive.google.com/file/d/1XfrDPQhdVFwVjM2udgKoAv-wlT2N6tDi/view)
 
   ## Credits
-  kljsdlkfjdsa
+  n
 
   ## License
 
-  This project is [APACHE-2.0](https://choosealicense.com/licenses/apache-2.0/) licensed.<br />
-  Copyright © 2021 [LJKLJ JLKJ](https://github.com/jacob-banks)
+  This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
+  Copyright © 2021 [JJ JJ](https://github.com/adf)
 
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-  http://www.apache.org/licenses/LICENSE-2.0
- 
+  
 
   ## Contributing
-  klsklfajsdfkjdo
+  m
 
   ## Tests
-  jkflakdfjas
+  m
 
   ## Questions
-  Contact ljklj jlkj with any questions!<br>
-  Github link: [jacob-banks](https://github.com/jacob-banks)<br>
-  Email: jj@ll.cc
-
-
+  Contact jj jj with any questions!<br>
+  Github link: [adf](https://github.com/adf)<br>
+  Email: j@J.j
